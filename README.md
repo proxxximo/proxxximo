@@ -88,7 +88,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="git"
       />
-     <br /> 
+     <br /> Git
     <td/>
     <td align="center" width="96">
       <img src=""
