@@ -43,11 +43,13 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
  <table width="100%">
   <tr>
     <td align="center" width="96">
+     <a href="#tools">
       <img src="https://user-images.githubusercontent.com/109273510/219883802-364eb8cc-d746-40a1-96af-c58e55b02bdc.png"
          width="48"
          height="48"
          alt="html"
       />
+      <a/>
      <br /> HTML5
     <td/>
     <td align="center" width="96">
@@ -71,7 +73,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          width="48"
          height="48"
          alt="material"
-      /> Material UI
+      /> Material 
      <br /> 
     <td/>
     <td align="center" width="96">
