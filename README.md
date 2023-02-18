@@ -53,11 +53,13 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
      <br /> HTML5
     <td/>
     <td align="center" width="96">
+     <a href="#stack"
       <img src="https://user-images.githubusercontent.com/109273510/219883936-26f9543c-9b0d-418f-8caf-164b47c5102a.png"
          width="48"
          height="48"
          alt="css"
       />
+     <a/>
      <br /> CSS3
     <td/>
     <td align="center" width="96">
