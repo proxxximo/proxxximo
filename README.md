@@ -59,7 +59,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
      <br /> CSS3
     <td/>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219884024-67a456c8-6ce2-456c-a8f9-1467e5551dc7.png"
+      <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
          width="48"
          height="48"
          alt="js"
