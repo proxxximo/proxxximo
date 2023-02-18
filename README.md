@@ -40,4 +40,42 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0EF6F7&width=435&lines=🚀+Languages+and+Tools+🚀)](https://git.io/typing-svg)
  
+ <table width="100%">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219883619-f069bd98-83d7-43ae-986a-65525b7eb643.svg
+"
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> HTML5
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> HTML5
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> HTML5
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> HTML5
+    <td/>
+  <tr/>
+ <table />
+ 
  <div/>
