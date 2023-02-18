@@ -83,10 +83,10 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
      <br /> 
     <td/>
     <td align="center" width="96">
-      <img src=""
+      <img src="https://user-images.githubusercontent.com/109273510/219884573-d8de1780-0e2d-450b-940a-c31a7afee3eb.png"
          width="48"
          height="48"
-         alt=""
+         alt="git"
       />
      <br /> 
     <td/>
