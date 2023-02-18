@@ -48,7 +48,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="html"
       />
-     <br /> HTML5
+     <br />HTML5
     <td/>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219883936-26f9543c-9b0d-418f-8caf-164b47c5102a.png"
@@ -56,21 +56,21 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="css"
       />
-     <br /> CSS3
+     <br />CSS3
     <td/>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
          width="48"
          height="48"
          alt="js"
-      /> JavaScript
+      />JavaScript
     <td/>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
          width="48"
          height="48"
          alt="material"
-      /> MaterialUi 
+      />MaterialUi 
      <br /> 
     <td/>
     <td align="center" width="96">
@@ -79,7 +79,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="SaSS"
       />
-     <br /> SaSS
+     <br />SaSS
     <td/>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884704-b5d3c1fd-9d00-4af5-8e6b-35d883a7a972.png"
@@ -87,7 +87,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="Git"
       />
-     <br /> Git
+     <br />Git
     <td/>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884790-f2ea724f-5edc-4213-95d7-ae37f6250427.png"
@@ -95,7 +95,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="Figma"
       />
-     <br /> Figma
+     <br />Figma
     <td/>
   <tr/>
   <tr>
@@ -105,7 +105,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="WebPack"
       />
-     <br /> Webpack
+     <br />Webpack
    <td/>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885067-83f90f36-fd6a-41bc-8b5f-f96d5cf57975.png"
@@ -113,7 +113,15 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          height="48"
          alt="Bootstrap"
       />
-     <br /> Bootstrap
+     <br />Bootstrap
+   <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219885239-f8544303-2782-4807-ad43-a7742bf60ce6.png"
+         width="48"
+         height="48"
+         alt="React"
+      />
+     <br />React
    <td/>
   <tr/>
  <table />
