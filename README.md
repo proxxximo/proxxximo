@@ -123,6 +123,30 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
       />
      <br />React
    <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219885447-4781055d-3992-414f-a721-a893fa85a062.png"
+         width="48"
+         height="48"
+         alt="TS"
+      />
+     <br />TypeScript
+   <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219885505-621a4341-b4a6-4316-aabf-59bc2784d361.png"
+         width="48"
+         height="48"
+         alt="Redux"
+      />
+     <br />Redux
+   <td/>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219885832-2c7d1750-9102-4e76-ba1c-5348b1a8be02.png"
+         width="48"
+         height="48"
+         alt="NodeJS"
+      />
+     <br />NodeJS
+   <td/>
   <tr/>
  <table />
  
