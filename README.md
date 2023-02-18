@@ -106,6 +106,15 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
          alt="WebPack"
       />
      <br /> Webpack
+   <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219885067-83f90f36-fd6a-41bc-8b5f-f96d5cf57975.png"
+         width="48"
+         height="48"
+         alt="Bootstrap"
+      />
+     <br /> Bootstrap
+   <td/>
   <tr/>
  <table />
  
