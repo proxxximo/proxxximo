@@ -43,8 +43,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
  <table width="100%">
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219883619-f069bd98-83d7-43ae-986a-65525b7eb643.svg
-"
+      <img src="https://user-images.githubusercontent.com/109273510/219883802-364eb8cc-d746-40a1-96af-c58e55b02bdc.png"
          width="48"
          height="48"
          alt=""
