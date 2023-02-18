@@ -1,6 +1,5 @@
 <div align="center" dir="auto">
  
- 
  <img src="https://user-images.githubusercontent.com/109273510/219876919-a2c4de08-4dc4-469d-b991-c1694a02c921.gif" width="400px" height="200px">
  <br />
 
@@ -22,8 +21,8 @@
  [![codewars](https://www.codewars.com/users/proxxximo/badges/large)](https://www.codewars.com/users/proxxximo)   
 
 <br />
-Hello, my name is Nikita. Currently, I am learning all aspects of front-end development. I started my journey in July 2022. I enjoy creating beautiful websites, but I want to expand my capabilities and create user-friendly and efficient interfaces in the future, which is why I chose React. There is a lot of work ahead, and I am eager to bring value and delight people with my development skills. I have a good understanding of HTML5, CSS3, responsive web design, Javascript, and React (fundamental level).
 
+Hello, my name is Nikita. Currently, I am learning all aspects of front-end development. I started my journey in July 2022. I enjoy creating beautiful websites, but I want to expand my capabilities and create user-friendly and efficient interfaces in the future, which is why I chose React. There is a lot of work ahead, and I am eager to bring value and delight people with my development skills. I have a good understanding of HTML5, CSS3, responsive web design, Javascript, and React (fundamental level). My plans include learning to write code in TypeScript, as well as being able to work with DataBases and APIs.
 
 <br />
 
