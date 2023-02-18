@@ -116,7 +116,7 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
      <br />Bootstrap
    <td/>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219885239-f8544303-2782-4807-ad43-a7742bf60ce6.png"
+      <img src="https://user-images.githubusercontent.com/109273510/219885272-20543445-41c4-4203-9e62-3b0b1e8a5b45.png"
          width="48"
          height="48"
          alt="React"
