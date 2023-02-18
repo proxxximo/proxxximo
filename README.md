@@ -81,6 +81,14 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
       />
      <br /> SaSS
     <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219884704-b5d3c1fd-9d00-4af5-8e6b-35d883a7a972.png"
+         width="48"
+         height="48"
+         alt="Git"
+      />
+     <br /> Git
+    <td/>
   <tr/>
  <table />
  
