@@ -67,12 +67,68 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
      <br /> JavaScript
     <td/>
     <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
+         width="48"
+         height="48"
+         alt="material"
+      /> Material UI
+     <br /> 
+    <td/>
+    <td align="center" width="96">
       <img src=""
          width="48"
          height="48"
          alt=""
       />
-     <br /> HTML5
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
+    <td/>
+    <td align="center" width="96">
+      <img src=""
+         width="48"
+         height="48"
+         alt=""
+      />
+     <br /> 
     <td/>
   <tr/>
  <table />
