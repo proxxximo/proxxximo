@@ -147,7 +147,17 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
       />
      <br />NodeJS
    <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219886951-04e93058-622d-4bfa-b04d-fa5ab1c20dcf.png"
+         width="48"
+         height="48"
+         alt="MongoDB"
+      />
+     <br />MongoDB
+   <td/>
   <tr/>
+  
+   
  <table />
  
  <div/>
