@@ -46,25 +46,25 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
       <img src="https://user-images.githubusercontent.com/109273510/219883802-364eb8cc-d746-40a1-96af-c58e55b02bdc.png"
          width="48"
          height="48"
-         alt=""
+         alt="html"
       />
      <br /> HTML5
     <td/>
     <td align="center" width="96">
-      <img src=""
+      <img src="https://user-images.githubusercontent.com/109273510/219883936-26f9543c-9b0d-418f-8caf-164b47c5102a.png"
          width="48"
          height="48"
-         alt=""
+         alt="css"
       />
-     <br /> HTML5
+     <br /> CSS3
     <td/>
     <td align="center" width="96">
-      <img src=""
+      <img src="https://user-images.githubusercontent.com/109273510/219884024-67a456c8-6ce2-456c-a8f9-1467e5551dc7.png"
          width="48"
          height="48"
-         alt=""
+         alt="js"
       />
-     <br /> HTML5
+     <br /> JavaScript
     <td/>
     <td align="center" width="96">
       <img src=""
