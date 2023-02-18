@@ -89,6 +89,14 @@ Hello, my name is Nikita. Currently, I am learning all aspects of front-end deve
       />
      <br /> Git
     <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219884790-f2ea724f-5edc-4213-95d7-ae37f6250427.png"
+         width="48"
+         height="48"
+         alt="Figma"
+      />
+     <br /> Figma
+    <td/>
   <tr/>
  <table />
  
