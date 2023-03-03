@@ -147,6 +147,14 @@
       />
      <br />Express
    </td>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222790060-d18d96cc-ff24-4ea3-b461-c46cd22dffdc.png"
+         width="48"
+         height="48"
+         alt="Next"
+      />
+     <br />NextJS
+   </td>
   <tr/>
   <tr>
     <td align="center" width="96">
