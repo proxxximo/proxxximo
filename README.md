@@ -161,6 +161,7 @@
       <img src="https://user-images.githubusercontent.com/109273510/222774013-54c3db4c-e3de-49a2-abb9-917d731c9cdc.png"
          width="48"
          height="48"
+         color="white"
          alt="Express"
       />
      <br />Express
