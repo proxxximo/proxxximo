@@ -81,8 +81,6 @@
       />
      <br />Figma
     </td>
-  <tr/>
-  <tr>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884957-b1df445c-b4ac-4a7c-b889-859375e2cf68.png"
          width="48"
@@ -91,6 +89,8 @@
       />
      <br />Webpack
    </td>
+  <tr/>
+  <tr>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885067-83f90f36-fd6a-41bc-8b5f-f96d5cf57975.png"
          width="48"
