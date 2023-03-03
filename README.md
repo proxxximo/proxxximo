@@ -181,6 +181,14 @@
       />
      <br />MySQL
    <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222780081-1e1e996f-9d5b-465d-a1f0-00dde6c39f63.png"
+         width="48"
+         height="48"
+         alt="Npm"
+      />
+     <br />NPM
+   <td/>
   </tr>
   
    
