@@ -205,6 +205,14 @@
       />
      <br />NPM
    </td>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222815142-7da51138-30f5-4c2c-b473-6fd871633a8d.png"
+         width="48"
+         height="48"
+         alt="Graph"
+      />
+     <br />GraphQL
+   </td>
   </tr>
  <table />
  <div/>
