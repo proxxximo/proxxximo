@@ -131,13 +131,13 @@
       />
      <br />NodeJS
    </td>
-   <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219886951-04e93058-622d-4bfa-b04d-fa5ab1c20dcf.png"
+  <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222776903-7acc82ed-51af-4a03-9671-449937a768f0.png"
          width="48"
          height="48"
-         alt="MongoDB"
+         alt="Express"
       />
-     <br />MongoDB
+     <br />Express
    </td>
   <tr/>
   <tr>
@@ -158,13 +158,14 @@
      <br />Nginx
    </td>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/222776903-7acc82ed-51af-4a03-9671-449937a768f0.png"
+      <img src="https://user-images.githubusercontent.com/109273510/219886951-04e93058-622d-4bfa-b04d-fa5ab1c20dcf.png"
          width="48"
          height="48"
-         alt="Express"
+         alt="MongoDB"
       />
-     <br />Express
+     <br />MongoDB
    </td>
+   
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222777437-e1dd346a-2eca-4ef3-9599-38da45bf66de.png"
          width="48"
