@@ -50,7 +50,6 @@
       />
      <br />SaSS
     </td>
-    
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
          width="48"
