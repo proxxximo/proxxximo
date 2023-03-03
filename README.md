@@ -33,7 +33,7 @@
          alt="html"
       />
      <br />HTML5
-    <td/>
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219883936-26f9543c-9b0d-418f-8caf-164b47c5102a.png"
          width="48"
@@ -41,14 +41,14 @@
          alt="css"
       />
      <br />CSS3
-    <td/>
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
          width="48"
          height="48"
          alt="js"
       />JavaScript
-    <td/>
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
          width="48"
@@ -56,7 +56,7 @@
          alt="material"
       />MaterialUi 
      <br /> 
-    <td/>
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884483-b22c43d5-1100-42a6-8017-b393be210e7f.png"
          width="48"
@@ -64,7 +64,7 @@
          alt="SaSS"
       />
      <br />SaSS
-    <td/>
+    </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884704-b5d3c1fd-9d00-4af5-8e6b-35d883a7a972.png"
          width="48"
@@ -72,7 +72,7 @@
          alt="Git"
       />
      <br />Git
-    <td/>
+    </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884790-f2ea724f-5edc-4213-95d7-ae37f6250427.png"
          width="48"
@@ -80,7 +80,7 @@
          alt="Figma"
       />
      <br />Figma
-    <td/>
+    </td>
   <tr/>
   <tr>
    <td align="center" width="96">
@@ -90,7 +90,7 @@
          alt="WebPack"
       />
      <br />Webpack
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885067-83f90f36-fd6a-41bc-8b5f-f96d5cf57975.png"
          width="48"
@@ -98,7 +98,7 @@
          alt="Bootstrap"
       />
      <br />Bootstrap
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885310-c439dc06-3bb8-4217-a30d-3379a57cdb90.png"
          width="48"
@@ -106,7 +106,7 @@
          alt="React"
       />
      <br />React
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885447-4781055d-3992-414f-a721-a893fa85a062.png"
          width="48"
@@ -114,7 +114,7 @@
          alt="TS"
       />
      <br />TypeScript
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885505-621a4341-b4a6-4316-aabf-59bc2784d361.png"
          width="48"
@@ -122,7 +122,7 @@
          alt="Redux"
       />
      <br />Redux
-   <td/>
+   </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885832-2c7d1750-9102-4e76-ba1c-5348b1a8be02.png"
          width="48"
@@ -130,7 +130,7 @@
          alt="NodeJS"
       />
      <br />NodeJS
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219886951-04e93058-622d-4bfa-b04d-fa5ab1c20dcf.png"
          width="48"
@@ -138,7 +138,7 @@
          alt="MongoDB"
       />
      <br />MongoDB
-   <td/>
+   </td>
   <tr/>
   <tr>
     <td align="center" width="96">
@@ -148,7 +148,7 @@
          alt="Docker"
       />
      <br />Docker
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222773538-b62a6cd9-7185-4f78-b323-0cd31feb35f9.png"
          width="48"
@@ -156,7 +156,7 @@
          alt="Nginx"
       />
      <br />Nginx
-   <td/>
+   </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222776903-7acc82ed-51af-4a03-9671-449937a768f0.png"
          width="48"
