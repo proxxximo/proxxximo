@@ -51,19 +51,19 @@
      <br />SaSS
     </td>
     <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
+         width="48"
+         height="48"
+         alt="js"
+      />JavaScript
+    </td>
+   <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
          width="48"
          height="48"
          alt="material"
       />MaterialUi 
      <br /> 
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
-         width="48"
-         height="48"
-         alt="js"
-      />JavaScript
     </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884704-b5d3c1fd-9d00-4af5-8e6b-35d883a7a972.png"
