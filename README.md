@@ -81,7 +81,7 @@
       />
      <br />Figma
     </td>
-  </tr>
+  <tr/>
   <tr>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884957-b1df445c-b4ac-4a7c-b889-859375e2cf68.png"
@@ -198,10 +198,7 @@
      <br />NPM
    </td>
   </tr>
-  
-   
  <table />
- 
  <div/>
 
 Hello, my name is Nikita. Currently, I am learning all aspects of front-end development. I started my journey in July 2022. I enjoy creating beautiful websites, but I want to expand my capabilities and create user-friendly and efficient interfaces in the future, which is why I chose React. There is a lot of work ahead, and I am eager to bring value and delight people with my development skills. I have a good understanding of HTML5, CSS3, responsive web design, Javascript, and React (fundamental level). My plans include learning to write code in TypeScript, as well as being able to work with DataBases and APIs.
