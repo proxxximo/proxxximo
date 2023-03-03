@@ -161,7 +161,6 @@
       <img src="https://user-images.githubusercontent.com/109273510/222776903-7acc82ed-51af-4a03-9671-449937a768f0.png"
          width="48"
          height="48"
-         
          alt="Express"
       />
      <br />Express
@@ -170,15 +169,14 @@
       <img src="https://user-images.githubusercontent.com/109273510/222777437-e1dd346a-2eca-4ef3-9599-38da45bf66de.png"
          width="48"
          height="48"
-         
          alt="Sketch"
       />
      <br />Sketch
+   </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222778490-c228ceb3-2c40-415c-b061-6aa2e619affa.png"
          width="48"
          height="48"
-         
          alt="MySQL"
       />
      <br />MySQL
