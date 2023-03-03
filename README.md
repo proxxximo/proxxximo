@@ -81,7 +81,7 @@
       />
      <br />Figma
     </td>
-  <tr/>
+  </tr>
   <tr>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884957-b1df445c-b4ac-4a7c-b889-859375e2cf68.png"
