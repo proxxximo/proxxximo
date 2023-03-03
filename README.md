@@ -42,13 +42,15 @@
       />
      <br />CSS3
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/219884483-b22c43d5-1100-42a6-8017-b393be210e7f.png"
          width="48"
          height="48"
-         alt="js"
-      />JavaScript
+         alt="SaSS"
+      />
+     <br />SaSS
     </td>
+    
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884288-f6bdb9cf-8352-45ad-9db5-040ea550afa6.png"
          width="48"
@@ -58,12 +60,11 @@
      <br /> 
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219884483-b22c43d5-1100-42a6-8017-b393be210e7f.png"
+      <img src="https://user-images.githubusercontent.com/109273510/219884120-ad88bc23-98fc-4042-b975-1d5bfecc7c76.png"
          width="48"
          height="48"
-         alt="SaSS"
-      />
-     <br />SaSS
+         alt="js"
+      />JavaScript
     </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219884704-b5d3c1fd-9d00-4af5-8e6b-35d883a7a972.png"
