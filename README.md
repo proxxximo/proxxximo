@@ -158,7 +158,7 @@
      <br />Nginx
    <td/>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/222776617-a6038e3d-bb98-4d12-a8dc-5af17a8bda52.png"
+      <img src="https://user-images.githubusercontent.com/109273510/222776903-7acc82ed-51af-4a03-9671-449937a768f0.png"
          width="48"
          height="48"
          color="white"
