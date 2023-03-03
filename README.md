@@ -139,7 +139,9 @@
       />
      <br />MongoDB
    <td/>
-   <td align="center" width="96">
+  <tr/>
+  <tr>
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222772396-0139d975-e394-468d-beca-7ca857493791.png"
          width="48"
          height="48"
@@ -147,7 +149,23 @@
       />
      <br />Docker
    <td/>
-  <tr/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222773538-b62a6cd9-7185-4f78-b323-0cd31feb35f9.png"
+         width="48"
+         height="48"
+         alt="Nginx"
+      />
+     <br />Nginx
+   <td/>
+   <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/109273510/222774013-54c3db4c-e3de-49a2-abb9-917d731c9cdc.png"
+         width="48"
+         height="48"
+         alt="Express"
+      />
+     <br />Express
+   <td/>
+  </tr>
   
    
  <table />
