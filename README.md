@@ -104,16 +104,16 @@
          width="48"
          height="48"
          alt="material"
-      />MaterialUi 
-     <br /> 
+      /> 
+     <br />MaterialUi
     </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222788485-a60a7cb0-2c35-47da-8fcc-e68f43c9d1c8.png"
          width="48"
          height="48"
          alt="Vue"
-      />VUE
-     <br /> 
+      />
+     <br />VUE
     </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/219885310-c439dc06-3bb8-4217-a30d-3379a57cdb90.png"
