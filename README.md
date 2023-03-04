@@ -82,12 +82,12 @@
      <br />Figma
     </td>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/219884957-b1df445c-b4ac-4a7c-b889-859375e2cf68.png"
+      <img src="https://user-images.githubusercontent.com/109273510/222777437-e1dd346a-2eca-4ef3-9599-38da45bf66de.png"
          width="48"
          height="48"
-         alt="WebPack"
+         alt="Sketch"
       />
-     <br />Webpack
+     <br />Sketch
    </td>
   <tr/>
   <tr>
@@ -182,12 +182,12 @@
      <br />MySQL
    </td>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/222777437-e1dd346a-2eca-4ef3-9599-38da45bf66de.png"
+      <img src="https://user-images.githubusercontent.com/109273510/219884957-b1df445c-b4ac-4a7c-b889-859375e2cf68.png"
          width="48"
          height="48"
-         alt="Sketch"
+         alt="WebPack"
       />
-     <br />Sketch
+     <br />Webpack
    </td>
    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/109273510/222780081-1e1e996f-9d5b-465d-a1f0-00dde6c39f63.png"
