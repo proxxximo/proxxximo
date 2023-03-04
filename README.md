@@ -174,7 +174,7 @@
      <br />MongoDB
    </td>
    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/222778490-c228ceb3-2c40-415c-b061-6aa2e619affa.png"
+      <img src="(https://user-images.githubusercontent.com/109273510/222893690-b97add5d-e2f0-4e6b-b1bb-0001c4deffd7.png"
          width="48"
          height="48"
          alt="MySQL"
