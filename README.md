@@ -81,14 +81,6 @@
       />
      <br />Figma
     </td>
-   <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/109273510/222777437-e1dd346a-2eca-4ef3-9599-38da45bf66de.png"
-         width="48"
-         height="48"
-         alt="Sketch"
-      />
-     <br />Sketch
-   </td>
   <tr/>
   <tr>
    <td align="center" width="96">
