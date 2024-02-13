@@ -18,7 +18,7 @@
 
  <br />
  
- [![codewars](https://www.codewars.com/users/proxxximo/badges/large)](https://www.codewars.com/users/proxxximo)   
+ [![codewars](https://www.codewars.com/users/Proxxximo/badges/large)](https://www.codewars.com/users/proxxximo)   
 
 <br />
  
